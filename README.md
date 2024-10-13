@@ -10,6 +10,7 @@ Pixel-to-Inch Conversion: Provides dimensions in both pixels and inches by assum
 Color and Text Analysis: Utilizes K-Means clustering to find dominant colors and OCR for text extraction, aiding in brand and product identification.
 Price Estimation: Attempts to estimate prices from detected text, offering insights into product pricing directly from the shelf.
 Technologies Used
+
 OpenCV: For image processing, edge detection, and visualization.
 scikit-learn: For K-Means clustering to analyze color distributions.
 Tesseract OCR: For text recognition from section images.
@@ -33,7 +34,4 @@ Contributing
 Contributions are welcome! If you have ideas for improvement or additional features, please fork the repository and submit a pull request. Make sure to follow the contribution guidelines.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-Lmk if you have issues!
+2021 code
