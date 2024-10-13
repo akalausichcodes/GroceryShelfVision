@@ -1,8 +1,8 @@
 # GroceryShelfVision
-A computer vision project for detecting and analyzing grocery shelf images, with enhanced capabilities for item detection, dimension estimation, and color analysis. Ideal for retail analytics, specifically for understanding shelf space allocation and product packaging details in grocery store environments.
+A computer vision project for detecting and analyzing grocery shelf images, with enhanced capabilities for item detection, dimension estimation, and color analysis. Ideal for retail analytics, specifically for understanding shelf space allocation and product packaging details in grocery store environments, specifically meat items. 
 
 Project Overview
-GroceryShelfVision is a Python-based computer vision application for detecting and analyzing sections of grocery shelves. The tool identifies individual items, estimates dimensions in inches, extracts text, and analyzes dominant colors. This project is useful for retail analysts focusing on product placement, competitor analysis, and category management insights.
+GroceryShelfVision is a Python-based computer vision application for detecting and analyzing sections of meat shelves. The tool identifies individual items, estimates dimensions in inches, extracts text, and analyzes dominant colors. This project is useful for retail analysts focusing on product placement, competitor analysis, and category management insights.
 
 Key Features
 Enhanced Detection: Uses multiple thresholds in edge detection for improved item detection accuracy, capable of detecting both small and large items.
